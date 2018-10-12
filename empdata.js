@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "Beth Simpson",
+      "phone_number": "(206)886-1234",
+      "email_address": "bsimpson@hospital.com",
+      "department": "Cardiologist",
+      "office number": "123",
+      "location": "Main Hospital"
     },
     {
       "name": "Brielle Williamson",
