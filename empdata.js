@@ -111,6 +111,14 @@
       "department": "Internal Medicine",
       "job": "Physician",
       "location": "Clinic"
+    },
+    {
+      "name": "Melissa Walker",
+      "phone_number": "(206)859-3641",
+      "email_address": "mwalker@hospital.com",
+      "department": "Cardiology",
+      "job": "Surgeon",
+      "location": "Main Hospital"
     }
   ]
 }
