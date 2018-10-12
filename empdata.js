@@ -5,7 +5,7 @@
       "phone_number": "(206)886-1234",
       "email_address": "bsimpson@hospital.com",
       "department": "Cardiology",
-      "job": "Physician",
+      "job_title": "Physician",
       "location": "Main Hospital"
     },
     {
@@ -13,7 +13,7 @@
       "phone_number": "(206)884-5678",
       "email_address": "jnoel@hospital.com",
       "department": "Cardiology",
-      "job": "Medical Assistant",
+      "job_title": "Medical Assistant",
       "location": "Main Hospital"
     }, 
     {
@@ -21,7 +21,7 @@
       "phone_number": "(206)755-9876",
       "email_address": "cholmes@hospital.com",
       "department": "Neurology",
-      "job": "Registered Nurse",
+      "job_title": "Registered Nurse",
       "location": "Main Hospital"
     },
     {
@@ -29,7 +29,7 @@
       "phone_number": "(206)123-5432",
       "email_address": "hsmith@hospital.com",
       "department": "Internal Medicine",
-      "job": "Nursing Assistant",
+      "job_title": "Nursing Assistant",
       "location": "Clinic"
     },
     {
@@ -37,7 +37,7 @@
       "phone_number": "(206)885-3456",
       "email_address": "mhiggins@hospital.com",
       "department": "Family Medicine",
-      "job": "Physician",
+      "job_title": "Physician",
       "location": "Main Hospital"
     },
     {
@@ -45,7 +45,7 @@
       "phone_number": "(206)882-6544",
       "email_address": "vmoore@hospital.com",
       "department": "Dermatology",
-      "job": "Physician",
+      "job_title": "Physician",
       "location": "Main Hospital"
     },
     {
@@ -53,7 +53,7 @@
       "phone_number": "(206)882-4223",
       "email_address": "cgold@hospital.com",
       "department": "Neurology",
-      "job": "Surgeon",
+      "job_title": "Surgeon",
       "location": "Main Hospital"
     },
     {
@@ -61,7 +61,7 @@
       "phone_number": "(206)665-9483",
       "email_address": "phoyt@hospital.com",
       "department": "Psychiatry",
-      "job": "Psychiatrist",
+      "job_title": "Psychiatrist",
       "location": "Clinic"
     },
     {
@@ -69,7 +69,7 @@
       "phone_number": "(206)546-7284",
       "email_address": "tpeterson@hospital.com",
       "department": "Pharmacy",
-      "job": "Pharmacist",
+      "job_title": "Pharmacist",
       "location": "Clinic"
     },
     {
@@ -77,7 +77,7 @@
       "phone_number": "(206)873-3356",
       "email_address": "tgomez@hospital.com",
       "department": "Endocrinology",
-      "job": "Medical Assistant",
+      "job_title": "Medical Assistant",
       "location": "Main Hospital"
     },
     {
@@ -85,7 +85,7 @@
       "phone_number": "(206)279-6194",
       "email_address": "sfinn@hospital.com",
       "department": "Neurology",
-      "job": "Physician",
+      "job_title": "Physician",
       "location": "Main Hospital"
     },
     {
@@ -93,7 +93,7 @@
       "phone_number": "(206)946-2743",
       "email_address": "rcoleman@hospital.com",
       "department": "Dermatology",
-      "job": "Registered Nurse",
+      "job_title": "Registered Nurse",
       "location": "Clinic"
     },
     {
@@ -101,7 +101,7 @@
       "phone_number": "(206)390-7183",
       "email_address": "tprice@hospital.com",
       "department": "Family Medicine",
-      "job": "Medical Assistant",
+      "job_title": "Medical Assistant",
       "location": "Clinic"
     },
     {
@@ -109,7 +109,7 @@
       "phone_number": "(206)431-8859",
       "email_address": "agregson@hospital.com",
       "department": "Internal Medicine",
-      "job": "Physician",
+      "job_title": "Physician",
       "location": "Clinic"
     },
     {
@@ -117,7 +117,7 @@
       "phone_number": "(206)859-3641",
       "email_address": "mwalker@hospital.com",
       "department": "Cardiology",
-      "job": "Surgeon",
+      "job_title": "Surgeon",
       "location": "Main Hospital"
     }
   ]
