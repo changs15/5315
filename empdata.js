@@ -23,6 +23,6 @@
       "department": "Neurology",
       "job": "Registered Nurse",
       "location": "Main Hospital"
-    },
+    }
   ]
 }
