@@ -18,12 +18,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('hospital_employee').text(),
-                $(this).find('phone_number').text(),
-                $(this).find('email_address').text(),
-                $(this).find('department').text(),
-                $(this).find('job_title').text(),
-                $(this).find('location').text()
+                $(this).find('name').text(),
+                $(this).find('designation').text(),
+                $(this).find('office').text(),
+                $(this).find('extension').text(),
+                $(this).find('joining_date').text(),
+                $(this).find('salary').text()
               ] ).draw( false );
              });
             }
@@ -36,23 +36,23 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Hospital Employee</th>
-            <th>Phone Number</th>
-            <th>Email Address</th>
-            <th>Department</th>
-            <th>Job Title</th>
-            <th>Location</th>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Hospital Employee</th>
-            <th>Phone Number</th>
-            <th>Email Address</th>
-            <th>Department</th>
-            <th>Job Title</th>
-            <th>Location</th>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Office</th>
+            <th>Extension</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
         </tr>
     </tfoot>
   </table>
