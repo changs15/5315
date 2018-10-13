@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <hospital_employee>James Bond</hospital_employee>
+      <phone_number>Accountant</phone_number>
+      <email_address>$170,750</email_address>
+      <department>2011/07/25</department>
+      <job_title>Tokyo</job_title>
+      <salary>8422</salary>
     </data>
     <data>
       <name>Brielle Williamson</name>
