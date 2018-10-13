@@ -16,4 +16,108 @@
       <job_title>Medical Assistant</job_title>
       <location>Main Hospital</location>
     </data>
+    <data>
+      <hospital_employee>Chloe Holmes</hospital_employee>
+      <phone_number>(206)755-9876</phone_number>
+      <email_address>cholmes@hospital.com</email_address>
+      <department>Neurology</department>
+      <job_title>Registered Nurse</job_title>
+      <location>Main Hospital</location>
+    </data>
+    <data>
+      <hospital_employee>Harry Smith</hospital_employee>
+      <phone_number>(206)123-5432</phone_number>
+      <email_address>hsmith@hospital.com</email_address>
+      <department>Internal Medicine</department>
+      <job_title>Nursing Assistant</job_title>
+      <location>Clinic</location>
+    </data>
+    <data>
+      <hospital_employee>Michael Higgins</hospital_employee>
+      <phone_number>(206)885-3456</phone_number>
+      <email_address>mhiggins@hospital.com</email_address>
+      <department>Family Medicine</department>
+      <job_title>Physician</job_title>
+      <location>Main Hospital</location>
+    </data>
+    <data>
+      <hospital_employee>Victoria Moore</hospital_employee>
+      <phone_number>(206)882-6544</phone_number>
+      <email_address>vmoore@hospital.com</email_address>
+      <department>Dermatology</department>
+      <job_title>Physician</job_title>
+      <location>Main Hospital</location>
+    </data>
+    <data>
+      <hospital_employee>Cary Gold</hospital_employee>
+      <phone_number>(206)882-4223</phone_number>
+      <email_address>cgold@hospital.com</email_address>
+      <department>Neurology</department>
+      <job_title>Surgeon</job_title>
+      <location>Main Hospital</location>
+    </data>
+    <data>
+      <hospital_employee>Patrick Hoyt</hospital_employee>
+      <phone_number>(206)655-9483</phone_number>
+      <email_address>phoyt@hospital.com</email_address>
+      <department>Psychiatry</department>
+      <job_title>Psychiatrist</job_title>
+      <location>Clinic</location>
+    </data>
+    <data>
+      <hospital_employee>Tim Peterson</hospital_employee>
+      <phone_number>(206)546-7284</phone_number>
+      <email_address>tpeterson@hospital.com</email_address>
+      <department>Pharmacy</department>
+      <job_title>Pharmacist</job_title>
+      <location>Clinic</location>
+    </data>
+    <data>
+      <hospital_employee>Tracy Gomez</hospital_employee>
+      <phone_number>(206)873-3356</phone_number>
+      <email_address>tgomez@hospital.com</email_address>
+      <department>Endocrinology</department>
+      <job_title>Medical Assistant</job_title>
+      <location>Main Hospital</location>
+    </data>
+    <data>
+      <hospital_employee>Samantha Finn</hospital_employee>
+      <phone_number>(206)279-6194</phone_number>
+      <email_address>sfinn@hospital.com</email_address>
+      <department>Neurology</department>
+      <job_title>Physician</job_title>
+      <location>Main Hospital</location>
+    </data>
+    <data>
+      <hospital_employee>Reese Coleman</hospital_employee>
+      <phone_number>(206)946-2743</phone_number>
+      <email_address>rcoleman@hospital.com</email_address>
+      <department>Dermatology</department>
+      <job_title>Registered Nurse</job_title>
+      <location>Clinic</location>
+    </data>
+    <data>
+      <hospital_employee>Trent Price</hospital_employee>
+      <phone_number>(206)390-7183</phone_number>
+      <email_address>tprice@hospital.com</email_address>
+      <department>Family Medicine</department>
+      <job_title>Medical Assistant</job_title>
+      <location>Clinic</location>
+    </data>
+    <data>
+      <hospital_employee>Alicia Gregson</hospital_employee>
+      <phone_number>(206)431-8859</phone_number>
+      <email_address>agregson@hospital.com</email_address>
+      <department>Internal Medicine</department>
+      <job_title>Physician</job_title>
+      <location>Clinic</location>
+    </data>
+    <data>
+      <hospital_employee>Melissa Walker</hospital_employee>
+      <phone_number>(206)859-3641</phone_number>
+      <email_address>mwalker@hospital.com</email_address>
+      <department>Cardiology</department>
+      <job_title>Surgeon</job_title>
+      <location>Main Hospital</location>
+    </data>
   </employees>
